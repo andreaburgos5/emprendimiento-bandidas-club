@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+.work{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    background: whitesmoke;
+}
+.work h1{
+    position: relative;
+    padding-top: 5%;
+    font-size: 2rem ;
+    font-family: 'Playfair Display SC', serif;
+}
+.underwear{
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    align-items: center;
+    gap: 2%;
+}
+.underwear img{
+    position: relative;
+    width: 40%;
+    justify-content: center;
+}
+.under-text{
+    position: relative;
+}
+.under-text h2{
+    font-size: 2rem;
+    font-family: 'Playfair Display SC', serif;
+}
+.under-text p{
+    padding-top: 2%;
+    font-size: 1.4rem;
+    font-family: 'Playfair Display SC', serif;
+}
